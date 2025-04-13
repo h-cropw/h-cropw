@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Howdy, I'm cropw 👋🤠
+  # Howdy, I'm cropw 🤠
 
   ---
 
