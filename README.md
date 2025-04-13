@@ -1,15 +1,30 @@
 <div align="center">
-  <h2 style="border-bottom: none;">Howdy, I'm cropw 👋🤠</h2>
 
-  <h2 style="border-bottom: none;">🌐 Socials:</h2>
-  <a href="https://discord.com/users/1093942698664276129">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://e-z.bio/cropw">
-    <img src="https://img.shields.io/badge/E_Z-Bio-blue" alt="Bio">
+  # Howdy, I'm cropw 👋🤠
+
+  ---
+
+  ### 🌐 Connect with Me
+  <p>
+    <a href="https://discord.com/users/1093942698664276129" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" alt="Discord">
+    </a>
+      <!-- Adds a small space -->
+    <a href="https://e-z.bio/cropw" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/E--Z%20Bio-blue?style=flat" alt="Bio"> <!-- Encoded space in E-Z -->
+    </a>
+  </p>
+
+  <br> <!-- Add a bit of space before the project -->
+
+  ## ✨ Featured Project: [Fullyz.xyz](https://github.com/h-cropw/Fullyz.xyz) ✨
+
+  <p><i>Fullyz.xyz | Quality over Quantity</i></p>
+
+  <a href="https://github.com/h-cropw/Fullyz.xyz">
+    <img src="https://raw.githubusercontent.com/h-cropw/Fullyz.xyz/main/Fullyz.xyz.jpg" alt="Fullyz.xyz Preview" width="600">
+    <!-- Make sure this is the RAW image link -->
+    <!-- Adjust width as needed -->
   </a>
 
-  <h2 style="border-bottom: none;"><a href="https://github.com/h-cropw/Fullyz.xyz">Fullyz.xyz</a></h2>
-  <p style="font-size: 18px;">Use Fullyz.xyz today, Quality over Quantity!</p>
-  <img src="https://github.com/h-cropw/Fullyz.xyz/blob/main/Fullyz.xyz.jpg" alt="Fullyz.xyz">
 </div>
