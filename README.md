@@ -23,6 +23,8 @@
 
   <p><i>Fullyz.xyz | Quality over Quantity!</i></p>
 
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/1wy1w.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+  
   <a href="https://github.com/h-cropw/Fullyz.xyz">
     <img src="https://raw.githubusercontent.com/h-cropw/Fullyz.xyz/main/Fullyz.xyz.jpg" alt="Fullyz.xyz Preview" width="600">
   </a>
